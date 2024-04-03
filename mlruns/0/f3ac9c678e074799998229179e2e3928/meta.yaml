@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/red_wine_quality/MLflow-Basic-Demo/mlruns/0/f3ac9c678e074799998229179e2e3928/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3ac9c678e074799998229179e2e3928
+run_name: popular-doe-784
+run_uuid: f3ac9c678e074799998229179e2e3928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712133905123
+status: 1
+tags: []
+user_id: tritr

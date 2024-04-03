@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/red_wine_quality/MLflow-Basic-Demo/mlruns/0/13d28598ba4244d890b0aa88fa2e644f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13d28598ba4244d890b0aa88fa2e644f
+run_name: thundering-loon-671
+run_uuid: 13d28598ba4244d890b0aa88fa2e644f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712135094705
+status: 1
+tags: []
+user_id: tritr
